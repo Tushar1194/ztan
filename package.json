@@ -12,7 +12,7 @@
     "@sap-ux/eslint-plugin-fiori-tools": "^10.0.0",
     "@sap-ux/ui5-middleware-fe-mockserver": "2",
     "@sap/ux-ui5-tooling": "1",
-    "@ui5/cli": "^2.14.20",
+    "@ui5/cli": "^4.0.65",
     "eslint": "^10"
   },
   "scripts": {
